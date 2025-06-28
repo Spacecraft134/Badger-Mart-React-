@@ -2,7 +2,7 @@
 
 **Badger Mart (React)** is a modern, React-based version of the original Badger Mart grocery store application. This project demonstrates key front-end development concepts including **React components**, **API fetching**, **conditional rendering**, and **state management**, while also leveraging **React-Bootstrap** for responsive UI design.
 
-> ⚠**Disclaimer:** This project was originally developed as part of a university course (CS571 at UW–Madison). Certain features, such as fetching daily featured items, require a valid CS571 Badger ID and will **not function outside the course environment**. This repository is for **educational and demonstration purposes only**.
+**Disclaimer:** This project was originally developed as part of a university course (CS571 at UW–Madison). Certain features (like the data-fetching endpoint) require authentication to CS571 course APIs and will **not function outside the course environment**. This repository is for **demonstration and learning purposes only**.
 
 ---
 
